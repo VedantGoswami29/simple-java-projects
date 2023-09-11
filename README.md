@@ -1,2 +1,1 @@
-# simple-java-projects
-# simple-java-projects
+#SIMPLE JAVA PROJECTS
